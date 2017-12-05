@@ -1,0 +1,5 @@
+{
+    "name": "Node.js getting started",
+    "description": "stripe api using nodejs",
+    "keywords": ["node", "express", "stripe"]
+}
